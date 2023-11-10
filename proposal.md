@@ -1,10 +1,18 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: Trilinos
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+The Trilinos Project is a community of developers, users and user-developers focused on collaborative creation of algorithms and enabling technologies within an object-oriented software framework for the solution of large-scale, complex multi-physics engineering and scientific problems on new and emerging high-performance computing (HPC) architectures.
+
+Trilinos is also a collection of reusable scientific software libraries, known in particular for linear solvers, non-linear solvers, transient solvers, optimization solvers, and uncertainty quantification (UQ) solvers.
+
+Most Trilinos algorithms and software are built upon its abilities to construct and solve sparse problems, using sparse linear solvers. These solvers rely on a collection of data structure classes and functions (kernels) for parallel linear algebra, especially parallel sparse kernels.
+
+Trilinos is targeted for all major parallel architectures, including distributed memory using the Message Passing Interface (MPI), multicore using a variety of common approaches, accelerators using common and emerging approaches, and vectorization.
+
+Trilinos parallel functionality is written on top of libraries that support compile-time polymorphism, such that, as long as a given algorithm and problem size contain enough latent parallelism, the same Trilinos source code can be compiled and execution on any reasonable combination of distributed, multicore, accelerator and vectorizing computing devices.
+
 
 ### Stats
 
