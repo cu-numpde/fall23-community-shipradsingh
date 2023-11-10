@@ -10,20 +10,20 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2022-10-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
-| Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| Repository URL | https://github.com/trilinos/Trilinos/tree/master   |
+| Main/documentation website |  https://trilinos.github.io/  |
+| Year project was started |  September, 2003 |
+| Number of contributors in the past year | 224 |
+| Number of contributors in the lifetime of the project | 753 |
+| Number of distinct affiliations | 1 |
+| Where do development discussions take place? | Github issues, Trilinos-Users Mailing List (Discussion Forum for Trilinos users)  |
+| Typical number of emails/comments per week? | -  |
+| Typical number of commits per week? | ~ 40 |
+| Typical commit size | 1-2 files changed |
+| How does the project accept contributions? | Github Pull Requests   |
+| Does the project have an automated test suite? | yes |
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | no |
 
 ### Install and run
 
