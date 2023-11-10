@@ -45,12 +45,7 @@ encountered a problem.
 
 ### Notes/concerns/risks
 
-Please comment on any anomalies or known risks to following this
-project, if you were unable to answer any questions above, or
-otherwise have concerns about the appropriateness of the software.  If
-the project requires a contributor license agreement or other
-procedural steps, please explain here.  "None at this time" is
-acceptable for this question.
+None at this time.
 
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
